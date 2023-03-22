@@ -22,13 +22,12 @@ public class Pra_10 {
 
 /* Output: 
 
-Enter a String : Welcome
-       W 
-      W e
-     W e l
-    W e l c
-   W e l c o 
-  W e l c o m
- W e l c o m e
+Enter a String : Stream
+      S     
+     S t    
+    S t r   
+   S t r e  
+  S t r e a 
+ S t r e a m
 
 */
