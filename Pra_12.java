@@ -12,6 +12,12 @@ public class Pra_12 {
             alpha += ch;
         }
         alpha+=" ";
-        System.out.println(alpha + num);
+        System.out.println("Generated Number Plate: "+alpha + num);
     }
 }
+
+/* Output: 
+
+YB 6731
+
+*/
