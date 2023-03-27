@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pra_16 {
     public static void reverse(int[] arr) {
         int i = 0, temp;
-        while (i <= arr.length / 2) {
+        while (i < arr.length / 2) {
             temp = arr[i];
             arr[i] = arr[arr.length - 1 - i];
             arr[arr.length - 1 - i] = temp;
@@ -39,6 +39,6 @@ Enter 10 Digits:
 19
 20
 After reversing numbers in an Array :
-20  19  18  17  15  16  14  13  12  11 
+20  19  18  17  16  15  14  13  12  11 
 
 */
