@@ -19,3 +19,10 @@ class Pra_37{
   fout.close();  
  }  
 }   
+
+/*
+Output:
+Provide source file name :First.txt
+Provide destination file name :Second.txt  
+Copy finish...
+*/
